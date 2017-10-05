@@ -22,6 +22,10 @@ export class Td extends React.Component {
                 }
             }
         }
+
+        // build className
+        mergedProps.className = 'reactable-td-' + mergedProps["label"].replace(/\s+/g, '-').toLowerCase();
+
         // handleClick aliases onClick event
         mergedProps.onClick = this.props.handleClick;
 

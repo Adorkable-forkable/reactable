@@ -463,6 +463,10 @@ window.ReactDOM["default"] = window.ReactDOM;
                         }
                     }
                 }
+
+                // build className
+                mergedProps.className = 'reactable-td-' + mergedProps["label"].replace(/\s+/g, '-').toLowerCase();
+
                 // handleClick aliases onClick event
                 mergedProps.onClick = this.props.handleClick;
 
