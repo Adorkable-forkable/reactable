@@ -1,7 +1,7 @@
 # Reactable
 
-[![Build Status](https://travis-ci.org/glittershark/reactable.svg?branch=master)](https://travis-ci.org/glittershark/reactable)
-[![Code Climate](https://codeclimate.com/github/glittershark/reactable/badges/gpa.svg)](https://codeclimate.com/github/glittershark/reactable)
+[![Build Status](https://travis-ci.org/Adorkable-forkable/reactable.svg?branch=master)](https://travis-ci.org/Adorkable-forkable/reactable)
+[![Code Climate](https://codeclimate.com/github/Adorkable-forkable/reactable/badges/gpa.svg)](https://codeclimate.com/github/Adorkable-forkable/reactable)
 
 Fast, flexible, and simple data tables in React.
 
@@ -64,9 +64,9 @@ at the root of this repositiory][lib-folder].
 Keep in mind that Reactable depends on the latest version of React (0.14), which
 can be downloaded [here][download]
 
-[build-file]: https://github.com/glittershark/reactable/raw/master/build/reactable.js
+[build-file]: https://github.com/Adorkable-forkable/reactable/raw/master/build/reactable.js
 [download]: http://facebook.github.io/react/downloads.html
-[lib-folder]: https://github.com/glittershark/reactable/tree/master/lib
+[lib-folder]: https://github.com/Adorkable-forkable/reactable/tree/master/lib
 
 ## Usage
 
